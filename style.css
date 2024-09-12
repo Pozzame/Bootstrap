@@ -1,0 +1,35 @@
+
+.topbar{
+    background-color: brown;
+    color: white;
+    padding-left: 5%;
+}
+
+.navibar{
+    background-color: #cc2c29;
+    color: white;
+    padding-left: 5%;
+}
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+.btn-danger{
+    background-color: rgb(90, 21, 21);
+    border: 0;
+}
+
+a {list-style: none;}
+ul {list-style-type:none; margin: 0;padding: 0;}
+
+.navbar-brand {
+    padding: 0;
+}
+
+img{
+    height: 66x;
+    width: 72px;
+    background-color: white;
+}
+
+
