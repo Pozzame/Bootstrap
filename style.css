@@ -35,4 +35,6 @@ img{
     background-color: white;
 }
 
-
+.row{
+    flex-wrap: nowrap;
+}
