@@ -1,5 +1,8 @@
 
-.topbar{
+body{
+    background-color: #cc2c29;
+    color: white;
+}.topbar{
     background-color: brown;
     color: white;
     padding-left: 5%;
