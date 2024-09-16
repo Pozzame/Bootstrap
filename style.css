@@ -2,7 +2,9 @@
 body{
     background-color: #cc2c29;
     color: white;
-}.topbar{
+}
+
+.topbar{
     background-color: brown;
     color: white;
     padding-left: 5%;
@@ -42,6 +44,7 @@ img{
 .it-header-center-wrapper .container .row .col-1 {
     width:90px;
 }
+
 .it-header-center-wrapper .container .row .col-12 {
     width:90px;
 }
